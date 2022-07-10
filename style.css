@@ -4,15 +4,14 @@
 
   <!-- Add this to the page and see what happens! -->
   <style>
-    body {
-      background-color: tomato;
-    }h1 {
-  font-size: 100px;
+  
+  body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: tomato;
+  }
+
 }  </style>
 </head>
-<link rel="stylesheet" href="./assets/css/style.css" />
-
-<h1 style="color: blue; font-size: 100px;">RUN BUDDY</h1>
 
 
 
